@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pertop.Android", "Pertop\Pertop.Android\Pertop.Android.csproj", "{2331BC44-F7E3-435D-88A6-7CBF77A5334A}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Pertop", "Pertop\Pertop\Pertop.shproj", "{FB71C9AA-C14D-4624-BA17-94CE689898A2}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		Pertop\Pertop\Pertop.projitems*{2331bc44-f7e3-435d-88a6-7cbf77a5334a}*SharedItemsImports = 4
+		Pertop\Pertop\Pertop.projitems*{fb71c9aa-c14d-4624-ba17-94ce689898a2}*SharedItemsImports = 13
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2331BC44-F7E3-435D-88A6-7CBF77A5334A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2331BC44-F7E3-435D-88A6-7CBF77A5334A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2331BC44-F7E3-435D-88A6-7CBF77A5334A}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{2331BC44-F7E3-435D-88A6-7CBF77A5334A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2331BC44-F7E3-435D-88A6-7CBF77A5334A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2331BC44-F7E3-435D-88A6-7CBF77A5334A}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9349D88-46A1-4566-BAAC-8DB914C1F8EB}
+	EndGlobalSection
+EndGlobal
